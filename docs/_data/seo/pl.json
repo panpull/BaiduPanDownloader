@@ -1,0 +1,46 @@
+{
+ "index": {
+  "title": "Baidu Pan (pan.baidu.com): jak pobrać pliki – poradniki",
+  "description": "Dziesięć krótkich poradników o pobieraniu z Baidu Pan (Baidu Netdisk) spoza Chin: bez konta, chińskiego numeru i klienta. Do 150 MB za darmo w PanPull."
+ },
+ "download-without-account": {
+  "title": "Jak pobrać z Baidu Pan bez konta: krok po kroku",
+  "description": "Pobierz pliki z linku pan.baidu.com bez konta Baidu i bez chińskiego numeru telefonu. Siedem kroków w przeglądarce, a udostępnienia do 150 MB są za darmo."
+ },
+ "sign-up-phone-number": {
+  "title": "Konto Baidu bez chińskiego numeru telefonu: co działa",
+  "description": "Jakie numery kierunkowe przyjmuje rejestracja w Baidu (nie ma tam żadnego kraju UE), co daje darmowe konto i jak pobierać pliki zupełnie bez rejestracji."
+ },
+ "extraction-code": {
+  "title": "Kod dostępu Baidu Pan: gdzie go znaleźć i jak go wpisać",
+  "description": "Kod dostępu Baidu Pan to cztery litery lub cyfry wysyłane razem z linkiem. Gdzie go znaleźć, gdzie go wpisać i co zrobić, gdy strona go odrzuca."
+ },
+ "download-without-client": {
+  "title": "Baidu Netdisk bez klienta: pobieranie na Macu i Linuksie",
+  "description": "Baidu wymaga klienta na komputer przy dużych plikach i folderach. Jak pobrać udostępnienie z Baidu Netdisk w przeglądarce na Windows, Macu lub Linuksie."
+ },
+ "download-on-phone": {
+  "title": "Baidu Pan na telefonie: pobieranie na iPhonie i Androidzie",
+  "description": "Pobierz pliki z linku Baidu Pan w Safari lub Chrome na telefonie, bez aplikacji Baidu Netdisk i bez logowania do Baidu. Do tego: gdzie zapisuje się plik."
+ },
+ "slow-download-speed": {
+  "title": "Wolne pobieranie z Baidu Pan: przyczyny i szybsze sposoby",
+  "description": "Darmowe konta Baidu Pan pobierają z prędkością około 100–170 KB/s. Tabela czasów pobierania według rozmiaru, co nie pomaga i dwa sposoby, które działają."
+ },
+ "share-link-not-working": {
+  "title": "Link Baidu Pan nie działa? Co oznacza każdy komunikat",
+  "description": "Udostępnienie anulowane, wygasłe, zablokowane albo wymaga kodu: co znaczy każdy komunikat na pan.baidu.com, kto to naprawi i jak za darmo sprawdzić link."
+ },
+ "share-page-explained": {
+  "title": "Baidu Netdisk po polsku: ściągawka do strony udostępnienia",
+  "description": "Baidu Netdisk nie ma polskiej wersji. Ściągawka do strony udostępnienia na pan.baidu.com: pole na kod, lista plików i do czego służy każdy przycisk."
+ },
+ "pricing-and-free-downloads": {
+  "title": "Ile kosztuje pobieranie z Baidu Pan? Za darmo, SVIP, za link",
+  "description": "Ile kosztuje pobieranie z Baidu Pan: darmowe konto, Baidu SVIP albo PanPull za link. Do 150 MB za darmo, potem 0,98 USD za pierwszy GB. Z przykładami."
+ },
+ "faq": {
+  "title": "Pobieranie z Baidu Pan – FAQ: konto, bezpieczeństwo, cena",
+  "description": "Krótkie odpowiedzi o Baidu Pan (Baidu Netdisk): pobieranie bez konta, kod dostępu, bezpieczeństwo, niska prędkość, ceny i obsługiwane linki."
+ }
+}

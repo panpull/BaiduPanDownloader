@@ -1,0 +1,46 @@
+{
+ "index": {
+  "title": "Baidu Pan: ladda ner från pan.baidu.com – guider på svenska",
+  "description": "Tio guider om nedladdning från Baidu Pan (Baidu Netdisk) utanför Kina: utan konto, kinesiskt mobilnummer eller klient. Upp till 150 MB gratis via PanPull."
+ },
+ "download-without-account": {
+  "title": "Ladda ner från Baidu Pan utan konto: steg för steg",
+  "description": "Ladda ner filer från en delningslänk på pan.baidu.com utan Baidu-konto eller kinesiskt mobilnummer. Sju steg i webbläsaren, och upp till 150 MB är gratis."
+ },
+ "sign-up-phone-number": {
+  "title": "Baidu-konto utan kinesiskt mobilnummer: vad fungerar?",
+  "description": "Vilka landsnummer Baidus registrering godtar (inget EU-land), vad ett gratiskonto kan och inte kan, och hur du laddar ner utan att registrera dig."
+ },
+ "extraction-code": {
+  "title": "Baidu Pan åtkomstkod: var du hittar den och hur du anger den",
+  "description": "Åtkomstkoden till Baidu Pan är fyra bokstäver eller siffror som följer med delningslänken. Var den finns, var den ska in och vad du gör om den nekas."
+ },
+ "download-without-client": {
+  "title": "Baidu Netdisk utan klient: ladda ner på Mac och Linux",
+  "description": "För stora filer och mappar kräver Baidu skrivbordsklienten. Så laddar du ner en Baidu Netdisk-delning i webbläsaren på Windows, Mac eller Linux."
+ },
+ "download-on-phone": {
+  "title": "Baidu Pan på iPhone eller Android: ladda ner utan app",
+  "description": "Hämta filerna från en delningslänk på Baidu Pan i Safari eller Chrome på mobilen, utan Baidu Netdisk-appen och utan inloggning. Plus var filen hamnar."
+ },
+ "slow-download-speed": {
+  "title": "Baidu Pan långsam nedladdning: varför och vad som hjälper",
+  "description": "Gratiskonton på Baidu Pan laddar ner med cirka 100–170 KB/s. En tabell med nedladdningstider per storlek, vad som inte hjälper och två sätt som gör det."
+ },
+ "share-link-not-working": {
+  "title": "Baidu Pan-länken fungerar inte? Vad varje fel betyder",
+  "description": "Avbruten, utgången, blockerad eller kräver kod: vad varje meddelande på pan.baidu.com betyder, vem som kan åtgärda det och hur du testar en länk gratis."
+ },
+ "share-page-explained": {
+  "title": "Baidu Netdisk på svenska: delningssidans knappar förklarade",
+  "description": "Baidu Netdisk finns inte på svenska. En fusklapp för delningssidan på pan.baidu.com: kodfältet, fillistan och vad varje knapp gör."
+ },
+ "pricing-and-free-downloads": {
+  "title": "Vad kostar Baidu Pan? Gratis, SVIP eller betala per delning",
+  "description": "Vad nedladdning från Baidu Pan kostar: gratiskonto, Baidu SVIP eller PanPull per delning. Gratis till 150 MB, sedan 0,98 US$ för första GB. Med exempel."
+ },
+ "faq": {
+  "title": "Vanliga frågor om Baidu Pan: konto, säkerhet, fart, pris",
+  "description": "Korta svar om Baidu Pan (Baidu Netdisk): nedladdning utan konto, åtkomstkoden, säkerhet, låg hastighet, priser och vilka delningslänkar som stöds."
+ }
+}

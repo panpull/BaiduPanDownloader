@@ -1,0 +1,46 @@
+{
+ "index": {
+  "title": "Baidu Pan letöltés (pan.baidu.com): útmutatók magyarul",
+  "description": "Tíz rövid útmutató a Baidu Pan (Baidu Netdisk) letöltéshez Kínán kívül: fiók, kínai telefonszám és kliens nélkül. A PanPull 150 MB-ig ingyenes."
+ },
+ "download-without-account": {
+  "title": "Letöltés a Baidu Panról Baidu-fiók nélkül, lépésről lépésre",
+  "description": "Töltse le egy pan.baidu.com-link fájljait Baidu-fiók és kínai telefonszám nélkül, néhány egyszerű lépésben a böngészőben. 150 MB-ig ingyenes."
+ },
+ "sign-up-phone-number": {
+  "title": "Baidu-fiók kínai telefonszám nélkül: mi működik?",
+  "description": "Mely országkódokat fogadja el a Baidu regisztrációs oldala (EU-ország nincs a listán), mire jó az ingyenes fiók, és hogyan tölthet le regisztráció nélkül."
+ },
+ "extraction-code": {
+  "title": "Baidu Pan hozzáférési kód: hol találja, hogyan adja meg",
+  "description": "A hozzáférési kód négy betű vagy számjegy, amely a Baidu Pan-linkkel együtt érkezik. Hol keresse, hová írja be, és mit tegyen, ha a Baidu nem fogadja el."
+ },
+ "download-without-client": {
+  "title": "Baidu Netdisk kliens nélkül: letöltés böngészőből, Macen is",
+  "description": "A Baidu nagy fájlokhoz és mappákhoz az asztali klienst kéri. Így töltheti le a Baidu Netdisk-megosztást böngészőben, Windowson, Macen vagy Linuxon."
+ },
+ "download-on-phone": {
+  "title": "Baidu Pan letöltés iPhone-on és Androidon, alkalmazás nélkül",
+  "description": "Mentse le egy Baidu Pan-link fájljait Safariban vagy Chrome-ban, Baidu Netdisk alkalmazás és Baidu-bejelentkezés nélkül. Azt is megmutatjuk, hová kerülnek."
+ },
+ "slow-download-speed": {
+  "title": "Baidu Pan letöltési sebesség: miért lassú, és mit tehet?",
+  "description": "Az ingyenes Baidu-fiókok nagyjából 100–170 KB/s-mal töltenek le. Táblázat a letöltési időkről méret szerint, mi nem gyorsít rajta, és két út, amely igen."
+ },
+ "share-link-not-working": {
+  "title": "Baidu Pan link nem működik? Mit jelentenek a hibaüzenetek",
+  "description": "Törölt, lejárt, letiltott megosztás vagy kódot kér: mit jelentenek a pan.baidu.com üzenetei, ki tudja megoldani, és hogyan ellenőrizheti a linket ingyen."
+ },
+ "share-page-explained": {
+  "title": "Baidu Netdisk magyarul: a megosztási oldal gombjai",
+  "description": "A Baidu Netdisk csak kínaiul érhető el. Puska a pan.baidu.com megosztási oldalához: a kódmező, a fájllista, és hogy melyik gomb mire való."
+ },
+ "pricing-and-free-downloads": {
+  "title": "Baidu Pan letöltés ára: ingyenes, SVIP vagy megosztásonként",
+  "description": "Mennyibe kerül a Baidu Pan letöltés: ingyenes fiók, Baidu SVIP vagy PanPull megosztásonként. 150 MB-ig ingyenes, utána az első GB 0,98 USD. Példákkal."
+ },
+ "faq": {
+  "title": "Baidu Pan GYIK: fiók, biztonság, sebesség és ár",
+  "description": "Rövid válaszok a Baidu Panról (Baidu Netdisk): letöltés fiók nélkül, hozzáférési kód, biztonság, lassú letöltés, árak és a támogatott linkek."
+ }
+}

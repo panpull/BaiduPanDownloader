@@ -1,0 +1,46 @@
+{
+ "index": {
+  "title": "바이두 넷디스크 다운로드 방법: 한국어 가이드 모음",
+  "description": "중국 밖에서 바이두 넷디스크(Baidu Pan) 공유 파일을 받는 가이드 10편. 계정, 중국 전화번호, 클라이언트 없이 150 MB까지 무료."
+ },
+ "download-without-account": {
+  "title": "바이두 계정 없이 넷디스크 공유 파일 다운로드하기",
+  "description": "바이두 계정이나 중국 전화번호 없이 pan.baidu.com 공유 링크의 파일을 받는 방법. 브라우저에서 7단계, 150 MB까지는 무료입니다."
+ },
+ "sign-up-phone-number": {
+  "title": "중국 전화번호 없이 바이두 가입? 해외 가입 가능 여부",
+  "description": "바이두 해외 가입 페이지의 국가 번호 목록(EU 국가는 없음), 무료 계정으로 할 수 있는 일, 가입 없이 다운로드하는 방법을 정리했습니다."
+ },
+ "extraction-code": {
+  "title": "바이두 넷디스크 추출 코드: 찾는 곳과 입력 방법",
+  "description": "추출 코드는 공유 링크와 함께 전달되는 영문자나 숫자 4자리입니다. 바이두 넷디스크 코드를 찾는 곳, 입력 방법, 거부될 때 대처법."
+ },
+ "download-without-client": {
+  "title": "넷디스크 클라이언트 없이 다운로드(Mac·Linux)",
+  "description": "큰 파일과 폴더는 바이두가 클라이언트 설치를 요구합니다. Windows, Mac, Linux 브라우저에서 바이두 넷디스크 공유를 받는 방법."
+ },
+ "download-on-phone": {
+  "title": "휴대폰으로 바이두 넷디스크 받기(앱 없이)",
+  "description": "Safari나 Chrome에서 바이두 넷디스크 공유 링크의 파일을 받으세요. 넷디스크 앱도, 바이두 로그인도 필요 없습니다. 저장 위치도 안내."
+ },
+ "slow-download-speed": {
+  "title": "바이두 넷디스크 다운로드 속도: 느린 이유와 시간",
+  "description": "무료 바이두 계정은 약 100–170 KB/s입니다. 용량별 다운로드 시간표, 효과 없는 방법, 실제로 더 빨리 받는 두 가지 방법을 정리."
+ },
+ "share-link-not-working": {
+  "title": "바이두 공유 링크가 안 열릴 때: 메시지별 의미",
+  "description": "공유 취소, 기간 만료, 차단, 코드 요구. pan.baidu.com 메시지별 의미와 해결할 수 있는 사람, 링크를 무료로 확인하는 방법."
+ },
+ "share-page-explained": {
+  "title": "바이두 넷디스크 한국어 안내: 공유 페이지 버튼",
+  "description": "pan.baidu.com 공유 페이지는 중국어로만 되어 있습니다. 코드 입력란, 파일 목록, 각 버튼의 기능을 위치별로 정리한 표입니다."
+ },
+ "pricing-and-free-downloads": {
+  "title": "바이두 넷디스크 다운로드 비용: 무료·SVIP·공유별",
+  "description": "무료 계정, 바이두 SVIP, 공유별로 내는 PanPull 비용 비교. 150 MB까지 무료, 그 이상은 첫 GB $0.98입니다. 예시 포함."
+ },
+ "faq": {
+  "title": "바이두 다운로드 자주 묻는 질문: 계정·속도·요금",
+  "description": "바이두 넷디스크(Baidu Pan) 계정 없이 받기, 추출 코드, 안전성, 느린 속도, 요금, 지원하는 링크에 관한 질문에 짧게 답합니다."
+ }
+}

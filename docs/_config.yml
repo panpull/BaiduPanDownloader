@@ -1,0 +1,104 @@
+# GitHub Pages settings. The Markdown files need no front matter:
+# titles come from each file's first heading, and the language of a page
+# comes from its folder (see "defaults" below).
+title: Baidu Pan Downloader
+description: How to download from Baidu Netdisk (pan.baidu.com) without a Baidu account. Tutorials in 28 languages.
+lang: en
+
+# Address of the GitHub Pages site. Change both lines if a custom domain is added.
+url: https://panpull.github.io
+baseurl: /BaiduPanDownloader
+
+# Dates used in the pages' structured data. Raise updated_on when the content changes.
+published_on: "2026-11-10"
+updated_on: "2026-11-10"
+
+# Search engine ownership codes (Google Search Console, Bing Webmaster Tools).
+# Paste the code from the "HTML tag" method; leave empty until then.
+google_site_verification: ""
+bing_site_verification: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: false
+
+optional_front_matter:
+  remove_originals: true
+
+readme_index:
+  remove_originals: true
+
+relative_links:
+  enabled: true
+  collections: false
+
+defaults:
+  - scope: { path: "" }
+    values: { layout: default, lang: en }
+  - scope: { path: "de" }
+    values: { lang: de }
+  - scope: { path: "fr" }
+    values: { lang: fr }
+  - scope: { path: "es" }
+    values: { lang: es }
+  - scope: { path: "it" }
+    values: { lang: it }
+  - scope: { path: "pt" }
+    values: { lang: pt }
+  - scope: { path: "nl" }
+    values: { lang: nl }
+  - scope: { path: "pl" }
+    values: { lang: pl }
+  - scope: { path: "sv" }
+    values: { lang: sv }
+  - scope: { path: "cs" }
+    values: { lang: cs }
+  - scope: { path: "ro" }
+    values: { lang: ro }
+  - scope: { path: "hu" }
+    values: { lang: hu }
+  - scope: { path: "el" }
+    values: { lang: el }
+  - scope: { path: "uk" }
+    values: { lang: uk }
+  - scope: { path: "ru" }
+    values: { lang: ru }
+  - scope: { path: "sr" }
+    values: { lang: sr }
+  - scope: { path: "tr" }
+    values: { lang: tr }
+  - scope: { path: "ja" }
+    values: { lang: ja }
+  - scope: { path: "ko" }
+    values: { lang: ko }
+  - scope: { path: "zh-Hant" }
+    values: { lang: zh-Hant }
+  - scope: { path: "vi" }
+    values: { lang: vi }
+  - scope: { path: "id" }
+    values: { lang: id }
+  - scope: { path: "ms" }
+    values: { lang: ms }
+  - scope: { path: "th" }
+    values: { lang: th }
+  - scope: { path: "fil" }
+    values: { lang: fil }
+  - scope: { path: "hi" }
+    values: { lang: hi }
+  - scope: { path: "ar" }
+    values: { lang: ar, rtl: true }
+  - scope: { path: "he" }
+    values: { lang: he, rtl: true }

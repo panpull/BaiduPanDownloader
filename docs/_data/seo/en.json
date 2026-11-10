@@ -1,0 +1,46 @@
+{
+ "index": {
+  "title": "Baidu Pan download tutorials (pan.baidu.com) in English",
+  "description": "Ten short guides to downloading from Baidu Pan (Baidu Netdisk) outside China: no account, no Chinese phone number, no client. Free up to 150 MB with PanPull."
+ },
+ "download-without-account": {
+  "title": "How to download from Baidu Pan without an account",
+  "description": "Download files from a pan.baidu.com share link without a Baidu account or Chinese phone number. Seven steps in your browser; shares up to 150 MB are free."
+ },
+ "sign-up-phone-number": {
+  "title": "Baidu account without a Chinese phone number: what works",
+  "description": "Which country codes Baidu's sign-up page accepts (no EU country is listed), what a free account can and cannot do, and how to download without signing up."
+ },
+ "extraction-code": {
+  "title": "Baidu Pan extraction code: where to find it, how to use it",
+  "description": "The Baidu Pan extraction code is four letters or digits sent with the share link. Where to find it, how to enter it, and what to do when it is rejected."
+ },
+ "download-without-client": {
+  "title": "Download from Baidu Netdisk without the client (Mac, Linux)",
+  "description": "Baidu asks you to install its desktop client for big files and folders. How to download a Baidu Netdisk share in the browser on Windows, Mac or Linux instead."
+ },
+ "download-on-phone": {
+  "title": "Download from Baidu Pan on iPhone or Android, no app",
+  "description": "Get the files from a Baidu Pan share link in Safari or Chrome on your phone, without the Baidu Netdisk app or a Baidu login. Where the download is saved."
+ },
+ "slow-download-speed": {
+  "title": "Baidu Pan download speed: why it's slow and how to fix it",
+  "description": "Free Baidu Pan accounts download at about 100 to 170 KB/s. A table of download times by size, what does not speed it up, and two ways that do."
+ },
+ "share-link-not-working": {
+  "title": "Baidu Pan share link not working? What each error means",
+  "description": "Share cancelled, expired, blocked or asking for a code: what each pan.baidu.com message means, who can fix it, and how to test a link for free."
+ },
+ "share-page-explained": {
+  "title": "Baidu Netdisk in English: share page buttons explained",
+  "description": "Baidu Netdisk has no English version. A cheat sheet for the pan.baidu.com share page: the code box, the file list and what each button does."
+ },
+ "pricing-and-free-downloads": {
+  "title": "Baidu Pan download cost: free, SVIP and pay-per-share",
+  "description": "What it costs to download from Baidu Pan: a free account, Baidu SVIP, or PanPull per share. Free up to 150 MB, then $0.98 for the first GB. With examples."
+ },
+ "faq": {
+  "title": "Baidu Pan download FAQ: account, safety, speed, price",
+  "description": "Short answers about Baidu Pan (Baidu Netdisk): downloading without an account, the extraction code, safety, slow speed, prices and supported links."
+ }
+}

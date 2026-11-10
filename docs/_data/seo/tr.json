@@ -1,0 +1,46 @@
+{
+ "index": {
+  "title": "Baidu Pan’dan indirme rehberleri (pan.baidu.com), Türkçe",
+  "description": "Çin dışından Baidu Pan (Baidu Netdisk) indirmek için on kısa rehber: hesap, Çin telefon numarası ve program gerekmez. PanPull ile 150 MB’a kadar ücretsiz."
+ },
+ "download-without-account": {
+  "title": "Baidu hesabı olmadan Baidu Pan’dan dosya indirme",
+  "description": "Bir pan.baidu.com paylaşım bağlantısındaki dosyaları Baidu hesabı ya da Çin numarası olmadan tarayıcınızda indirin. 150 MB’a kadar ücretsiz."
+ },
+ "sign-up-phone-number": {
+  "title": "Baidu hesabı için Çin numarası şart mı? Neler işe yarar",
+  "description": "Baidu kayıt sayfasının kabul ettiği ülke kodları (listede AB ülkesi yok), ücretsiz hesabın yapabildikleri ve kaydolmadan nasıl indirebileceğiniz."
+ },
+ "extraction-code": {
+  "title": "Baidu Pan erişim kodu: nerede bulunur, nasıl girilir",
+  "description": "Erişim kodu, Baidu Pan bağlantısıyla birlikte gelen dört harf veya rakamdır. Nerede bulunur, nereye yazılır ve kod kabul edilmezse ne yapılır?"
+ },
+ "download-without-client": {
+  "title": "Baidu Netdisk’ten program kurmadan indirme (Mac, Linux)",
+  "description": "Baidu, büyük dosya ve klasörler için masaüstü programını ister. Bunun yerine Baidu Netdisk paylaşımını Windows, Mac ya da Linux’ta tarayıcıdan alın."
+ },
+ "download-on-phone": {
+  "title": "Baidu Pan telefondan: iPhone, Android’de uygulamasız indirme",
+  "description": "Baidu Pan bağlantısındaki dosyaları telefonda Safari ya da Chrome ile alın; Baidu Netdisk uygulaması ve Baidu girişi gerekmez. Dosyalar nereye kaydedilir?"
+ },
+ "slow-download-speed": {
+  "title": "Baidu Pan indirme hızı: neden yavaş ve ne işe yarar",
+  "description": "Ücretsiz Baidu Pan hesapları yaklaşık 100 ila 170 KB/s ile indirir. Boyuta göre indirme süreleri tablosu, hızı artırmayan şeyler ve işe yarayan iki yol."
+ },
+ "share-link-not-working": {
+  "title": "Baidu Pan bağlantısı çalışmıyor mu? Hata mesajları ne demek",
+  "description": "İptal edilmiş, süresi dolmuş, engellenmiş ya da kod isteyen paylaşım: pan.baidu.com mesajları ne demek, kim düzeltebilir, bağlantı ücretsiz nasıl denenir?"
+ },
+ "share-page-explained": {
+  "title": "Baidu Netdisk Türkçe kılavuz: paylaşım sayfası düğmeleri",
+  "description": "Baidu Netdisk’in Türkçe sürümü yok. pan.baidu.com paylaşım sayfası için kısa bir kılavuz: kod kutusu, dosya listesi ve her düğmenin ne işe yaradığı."
+ },
+ "pricing-and-free-downloads": {
+  "title": "Baidu Pan indirme ücreti: ücretsiz, SVIP ve paylaşım başına",
+  "description": "Baidu Pan’dan indirmenin maliyeti: ücretsiz hesap, Baidu SVIP ya da paylaşım başına PanPull. 150 MB’a kadar ücretsiz, sonra ilk GB 0,98 dolar. Örneklerle."
+ },
+ "faq": {
+  "title": "Baidu Pan SSS: hesap, güvenlik, hız ve fiyat",
+  "description": "Baidu Pan (Baidu Netdisk) hakkında kısa yanıtlar: hesapsız indirme, erişim kodu, güvenlik, yavaş indirme, fiyatlar ve desteklenen bağlantılar."
+ }
+}

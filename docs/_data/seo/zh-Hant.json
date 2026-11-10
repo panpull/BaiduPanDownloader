@@ -1,0 +1,46 @@
+{
+ "index": {
+  "title": "百度網盤下載教學：沒帳號、不裝用戶端也能下載",
+  "description": "給中國大陸以外讀者的 10 篇百度網盤下載教學：不需要百度帳號、大陸手機號碼或用戶端，分享 150 MB 以內免費下載。"
+ },
+ "download-without-account": {
+  "title": "沒有百度帳號，怎麼下載百度網盤分享檔案",
+  "description": "不用百度帳號，也不必收驗證簡訊，就能下載 pan.baidu.com 分享連結裡的檔案。瀏覽器 7 個步驟，150 MB 以內免費。"
+ },
+ "sign-up-phone-number": {
+  "title": "百度帳號註冊沒有大陸手機號碼可以嗎？",
+  "description": "百度海外註冊頁接受哪些國碼、台灣 +886 號碼收驗證簡訊常遇到的問題、免費帳號能做什麼和不能做什麼，以及完全不註冊也能下載的方法。"
+ },
+ "extraction-code": {
+  "title": "百度網盤提取碼在哪裡？找法與輸入方式",
+  "description": "提取碼是隨百度網盤分享連結一起附上的 4 個字母或數字。本文說明去哪裡找、在哪裡輸入，以及提取碼被判定錯誤時又該怎麼辦。"
+ },
+ "download-without-client": {
+  "title": "不裝百度網盤用戶端也能下載（Mac、Linux）",
+  "description": "下載大檔案或資料夾時，百度會要你先安裝用戶端。說明怎麼在 Windows、Mac 或 Linux 只用瀏覽器下載百度網盤分享。"
+ },
+ "download-on-phone": {
+  "title": "手機下載百度網盤：iPhone、Android 免裝 App",
+  "description": "在 Safari 或 Chrome 裡下載百度網盤分享連結的檔案，不用百度網盤 App，也不用登入百度。附檔案存放位置說明。"
+ },
+ "slow-download-speed": {
+  "title": "百度網盤下載速度：為什麼慢、要等多久",
+  "description": "百度網盤免費帳號大約只有 100 到 170 KB/s。依大小列出下載時間、哪些做法沒有用，以及兩種真正比較快的下載辦法。"
+ },
+ "share-link-not-working": {
+  "title": "分享連結打不開？百度網盤每則訊息的意思",
+  "description": "分享被取消、已過期、遭封鎖或要求提取碼：pan.baidu.com 每則訊息代表什麼、誰能解決，以及怎麼免費檢查連結是否有效。"
+ },
+ "share-page-explained": {
+  "title": "百度網盤分享頁面速查：每個按鈕做什麼",
+  "description": "字看得懂，卻不確定按下去會怎樣？依位置說明 pan.baidu.com 分享頁面的提取碼框、驗證碼、檔案清單和每個按鈕。"
+ },
+ "pricing-and-free-downloads": {
+  "title": "下載百度網盤的費用：免費、SVIP、按分享計費",
+  "description": "比較免費百度帳號、百度 SVIP 會員和按分享計費的 PanPull。150 MB 以內免費，超過後首 GB 為 US$0.98，附計算範例。"
+ },
+ "faq": {
+  "title": "百度網盤下載常見問題：帳號、安全、速度、價格",
+  "description": "簡短回答百度網盤下載最常見的疑問：沒有百度帳號能不能下載、提取碼在哪、安不安全、速度為什麼慢、價格多少，以及支援哪些連結。"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "index": {
+  "title": "Tutoriels Baidu Pan : télécharger depuis pan.baidu.com",
+  "description": "Dix guides en français pour récupérer un partage Baidu Pan (Baidu Netdisk) hors de Chine, sans compte, numéro chinois ni client. Gratuit jusqu’à 150 MB."
+ },
+ "download-without-account": {
+  "title": "Télécharger depuis Baidu Pan sans compte Baidu",
+  "description": "Récupérez les fichiers d’un lien pan.baidu.com sans compte Baidu ni numéro chinois, en sept étapes dans votre navigateur. Gratuit jusqu’à 150 MB."
+ },
+ "sign-up-phone-number": {
+  "title": "Compte Baidu sans numéro chinois : peut-on s’inscrire ?",
+  "description": "Quels indicatifs la page d’inscription de Baidu accepte (aucun pays de l’UE), ce que permet un compte gratuit et comment télécharger sans compte."
+ },
+ "extraction-code": {
+  "title": "Code d’accès Baidu Pan : où le trouver, comment le saisir",
+  "description": "Le code d’accès Baidu Pan, ce sont quatre lettres ou chiffres envoyés avec le lien de partage. Où le trouver, où le saisir et que faire s’il est refusé."
+ },
+ "download-without-client": {
+  "title": "Baidu Netdisk sans le client : télécharger sur Mac ou Linux",
+  "description": "Pour les gros fichiers, Baidu exige son client de bureau. Comment télécharger un partage Baidu Netdisk dans le navigateur, sous Windows, Mac ou Linux."
+ },
+ "download-on-phone": {
+  "title": "Baidu Pan sur iPhone ou Android : télécharger sans l’appli",
+  "description": "Récupérez un partage Baidu Pan dans Safari ou Chrome sur votre téléphone, sans l’appli Baidu Netdisk ni connexion Baidu. Et où retrouver le fichier."
+ },
+ "slow-download-speed": {
+  "title": "Vitesse de téléchargement Baidu Pan : pourquoi c’est si lent",
+  "description": "Un compte Baidu Pan gratuit télécharge à environ 100 à 170 KB/s. Tableau des durées selon la taille, ce qui ne sert à rien et deux solutions plus rapides."
+ },
+ "share-link-not-working": {
+  "title": "Lien Baidu Pan qui ne marche pas : le sens de chaque erreur",
+  "description": "Partage annulé, expiré, bloqué ou protégé par un code : ce que veut dire chaque message de pan.baidu.com, qui peut agir et comment tester le lien gratis."
+ },
+ "share-page-explained": {
+  "title": "Baidu Netdisk en français : la page de partage expliquée",
+  "description": "Baidu Netdisk n’existe pas en français. Antisèche de la page de partage pan.baidu.com : le champ du code, la liste des fichiers, le rôle de chaque bouton."
+ },
+ "pricing-and-free-downloads": {
+  "title": "Tarif téléchargement Baidu Pan : gratuit, SVIP ou au partage",
+  "description": "Combien coûte un téléchargement Baidu Pan : compte gratuit, Baidu SVIP ou PanPull au partage. Gratuit jusqu’à 150 MB, puis 0,98 $US le premier GB."
+ },
+ "faq": {
+  "title": "FAQ Baidu Pan : compte, code, sécurité, vitesse et prix",
+  "description": "Réponses courtes sur Baidu Pan (Baidu Netdisk) : télécharger sans compte, le code d’accès, la sécurité, la lenteur, les prix et les liens pris en charge."
+ }
+}

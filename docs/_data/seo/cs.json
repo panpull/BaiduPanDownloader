@@ -1,0 +1,46 @@
+{
+ "index": {
+  "title": "Baidu Pan (pan.baidu.com): jak stáhnout soubory – návody",
+  "description": "Deset krátkých návodů ke stahování z Baidu Pan (Baidu Netdisk) mimo Čínu: bez účtu, bez čínského čísla a bez klienta. Do 150 MB zdarma s PanPull."
+ },
+ "download-without-account": {
+  "title": "Jak stahovat z Baidu Pan bez účtu: krok za krokem",
+  "description": "Stáhněte soubory ze sdíleného odkazu pan.baidu.com bez účtu Baidu a bez čínského telefonního čísla. Sedm kroků v prohlížeči, sdílení do 150 MB je zdarma."
+ },
+ "sign-up-phone-number": {
+  "title": "Účet Baidu bez čínského telefonního čísla: co funguje",
+  "description": "Které předvolby registrace Baidu přijímá (žádná země EU na seznamu není), co umí bezplatný účet a jak stahovat úplně bez registrace."
+ },
+ "extraction-code": {
+  "title": "Přístupový kód Baidu Pan: kde ho najít a jak ho zadat",
+  "description": "Přístupový kód Baidu Pan tvoří čtyři písmena nebo číslice a přichází se sdíleným odkazem. Kde ho najdete, kam ho zadat a co dělat, když ho stránka odmítne."
+ },
+ "download-without-client": {
+  "title": "Baidu Netdisk bez klienta: stahování na Macu a Linuxu",
+  "description": "Pro velké soubory a složky chce Baidu desktopového klienta. Jak sdílení z Baidu Netdisk stáhnout v prohlížeči na Windows, Macu nebo Linuxu."
+ },
+ "download-on-phone": {
+  "title": "Baidu Pan v mobilu: stahování na iPhonu a Androidu",
+  "description": "Stáhněte soubory ze sdíleného odkazu Baidu Pan v Safari nebo Chromu v telefonu, bez aplikace Baidu Netdisk a bez přihlášení k Baidu. A kam se soubor uloží."
+ },
+ "slow-download-speed": {
+  "title": "Pomalé stahování z Baidu Pan: proč a co skutečně pomůže",
+  "description": "Bezplatné účty Baidu Pan stahují rychlostí asi 100 až 170 KB/s. Tabulka časů stahování podle velikosti, co nepomůže a dva způsoby, které pomohou."
+ },
+ "share-link-not-working": {
+  "title": "Odkaz Baidu Pan nefunguje? Co znamená která hláška",
+  "description": "Sdílení zrušeno, vypršelo, zablokováno nebo chce kód: co znamená každá hláška na pan.baidu.com, kdo to může opravit a jak odkaz zdarma otestovat."
+ },
+ "share-page-explained": {
+  "title": "Baidu Netdisk česky: tahák ke stránce sdílení a tlačítkům",
+  "description": "Baidu Netdisk nemá českou verzi. Tahák ke stránce sdílení na pan.baidu.com: pole pro kód, seznam souborů a k čemu slouží každé tlačítko."
+ },
+ "pricing-and-free-downloads": {
+  "title": "Kolik stojí stahování z Baidu Pan? Zdarma, SVIP, za sdílení",
+  "description": "Kolik stojí stahování z Baidu Pan: bezplatný účet, Baidu SVIP, nebo PanPull za sdílení. Do 150 MB zdarma, pak 0,98 US$ za první GB. S příklady."
+ },
+ "faq": {
+  "title": "Stahování z Baidu Pan – časté dotazy: účet, bezpečnost, cena",
+  "description": "Krátké odpovědi o Baidu Pan (Baidu Netdisk): stahování bez účtu, přístupový kód, bezpečnost, pomalá rychlost, ceny a podporované odkazy."
+ }
+}

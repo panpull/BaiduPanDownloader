@@ -1,0 +1,46 @@
+{
+ "index": {
+  "title": "Paano mag-download sa Baidu Pan (pan.baidu.com): mga gabay",
+  "description": "Sampung maiikling gabay sa pag-download sa Baidu Pan (Baidu Netdisk) sa labas ng China: walang account, Chinese na number o client. Libre hanggang 150 MB."
+ },
+ "download-without-account": {
+  "title": "Mag-download sa Baidu Pan nang walang Baidu account",
+  "description": "I-download ang file mula sa pan.baidu.com share link nang walang Baidu account o Chinese na phone number. Pitong hakbang sa browser; libre hanggang 150 MB."
+ },
+ "sign-up-phone-number": {
+  "title": "Baidu account na walang Chinese phone number: puwede ba?",
+  "description": "Aling country code ang tinatanggap ng sign-up page ng Baidu (walang bansa sa EU), ano ang kaya ng libreng account, at paano mag-download nang wala nito."
+ },
+ "extraction-code": {
+  "title": "Baidu Pan extraction code: saan makikita at paano gamitin",
+  "description": "Ang Baidu Pan extraction code ay apat na letra o numero na kasama ng share link. Saan ito makikita, paano ilagay, at ano ang gagawin kapag tinanggihan."
+ },
+ "download-without-client": {
+  "title": "Download sa Baidu Netdisk nang walang client (Mac, Linux)",
+  "description": "Pinapa-install ng Baidu ang desktop client para sa malalaking file at folder. Paano i-download ang Baidu Netdisk share sa browser sa Windows, Mac o Linux."
+ },
+ "download-on-phone": {
+  "title": "Baidu Pan download sa iPhone o Android nang walang app",
+  "description": "Kunin ang mga file ng Baidu Pan share link sa Safari o Chrome ng cellphone, nang walang Baidu Netdisk app o Baidu login. Pati kung saan napupunta ang file."
+ },
+ "slow-download-speed": {
+  "title": "Bilis ng Baidu Pan download: bakit mabagal at gaano katagal",
+  "description": "Nasa 100 hanggang 170 KB/s ang download sa libreng Baidu Pan account. Talaan ng tagal ayon sa laki, mga hindi umeepekto, at dalawang paraang mas mabilis."
+ },
+ "share-link-not-working": {
+  "title": "Hindi gumagana ang Baidu Pan link? Kahulugan ng mga mensahe",
+  "description": "Kinansela, nag-expire, hinarang o humihingi ng code: ibig sabihin ng bawat mensahe ng pan.baidu.com, sino ang makakaayos, at paano i-check nang libre."
+ },
+ "share-page-explained": {
+  "title": "Baidu Netdisk sa Filipino: gabay sa mga button ng share page",
+  "description": "Walang Filipino na bersyon ang Baidu Netdisk. Gabay sa pan.baidu.com share page: ang kahon ng code, ang listahan ng file at ang ginagawa ng bawat button."
+ },
+ "pricing-and-free-downloads": {
+  "title": "Magkano ang Baidu Pan download: libre, SVIP at kada share",
+  "description": "Magkano ang pag-download sa Baidu Pan: libreng account, Baidu SVIP o PanPull kada share. Libre hanggang 150 MB, tapos $0.98 sa unang GB. May mga halimbawa."
+ },
+ "faq": {
+  "title": "FAQ sa Baidu Pan: account, kaligtasan, bilis at presyo",
+  "description": "Maiikling sagot sa Baidu Pan (Baidu Netdisk): pag-download nang walang account, extraction code, kaligtasan, bagal ng download, presyo at suportadong link."
+ }
+}
